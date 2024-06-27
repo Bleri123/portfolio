@@ -92,7 +92,6 @@ body {
     flex-direction: row;
     align-items: center;
     width: 100%;
-    max-width: 1300px;
     flex-wrap: wrap;
     margin-top: 45px;
     margin-left: 135px;
